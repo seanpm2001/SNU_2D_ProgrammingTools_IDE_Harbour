@@ -1,0 +1,2 @@
+INIT PROCEDURE SomeProcedureName
+EXIT PROCEDURE SomeProcedureName

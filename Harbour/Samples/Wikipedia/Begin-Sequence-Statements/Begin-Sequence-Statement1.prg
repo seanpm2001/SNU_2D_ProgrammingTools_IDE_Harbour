@@ -1,0 +1,7 @@
+BEGIN SEQUENCE
+...
+[BREAK]
+[Break( [Exp] )]
+RECOVER [USING Var]
+...
+END[SEQUENCE]
